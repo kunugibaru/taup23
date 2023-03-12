@@ -64,6 +64,6 @@
     {/if}
 
     {`${dat.x}`} __ {`${dat.y}`} <br>
-    {`${dat.ex.toFixed(2)}`} __ {`${dat.ey.toFixed(2)}`}
+    {`${dat.ex.toFixed(2)}`} __ {`${dat.ey.toFixed()}`}
   </header>
 </div>
